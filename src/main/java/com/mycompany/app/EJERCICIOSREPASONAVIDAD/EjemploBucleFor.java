@@ -27,5 +27,10 @@ public class EjemploBucleFor {
             System.out.println("factorial de iteracion: " + factorial);
         }   
         System.out.println("iteracion total: " + factorial);
+        
+        System.out.println("BUCLE INVERSO:"); //los valores salen en el orden contrario a un bucle standard
+        for (i=10 ; i>=0 ; i--){
+            System.out.println(i);
+        }
     }
 }
