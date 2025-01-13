@@ -1,4 +1,4 @@
-package com.mycompany.app;
+package com.mycompany.app.EJERCICIOSREPASONAVIDAD;
 import java.util.*;
 public class BooleanConIf {
     public static void main (String args[]){

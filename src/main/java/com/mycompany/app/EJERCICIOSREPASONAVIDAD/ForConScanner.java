@@ -1,8 +1,8 @@
-package com.mycompany.app;
+package com.mycompany.app.EJERCICIOSREPASONAVIDAD;
 
 import java.util.Scanner;
 
-public class segundointentofor {
+public class ForConScanner {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         System.out.println("SUMA DE NUMEROS:");

@@ -1,4 +1,4 @@
-package com.mycompany.app;
+package com.mycompany.app.EJERCICIOSREPASONAVIDAD;
 
 public class EjemploBucleFor {
     public static void main(String[] args) {
