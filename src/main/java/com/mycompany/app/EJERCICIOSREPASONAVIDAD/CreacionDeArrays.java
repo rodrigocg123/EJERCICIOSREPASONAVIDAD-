@@ -20,7 +20,6 @@ public class CreacionDeArrays {
                 posicionAprobados++;
             }
         }
-        System.out.println("El numero de casillas del nuevo array es de: " + ListaAprobados.length);
         System.out.println("Lista aprobados: ");
         for (i = 0; i < ListaAprobados.length ; i++){
             System.out.println(ListaAprobados[i]);
