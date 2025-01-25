@@ -43,13 +43,13 @@ public class PracticaGeneral {
         }
         
         for (i=0 ; i <ListaNotas.length ; i++ ){ //recorre el array y cada que que hay un numero menor de 5 suma 1 a la variable
-            if (ListaNotas[i] < 5){//recorre el array creado antes cogiendo los datos del array de "Lista de Notas" que estan suspensos
+            if (ListaNotas[i] < 5){
                 ListaSuspensos[posicionSuspensos] = ListaNotas [i];
                 posicionSuspensos++;
             }
         }
         for(i=0 ; i<ListaSuspensos.length; i++){
-           System.out.println(ListaSuspensos [i]); //plasma el array por pantalla 
+           System.out.println(ListaSuspensos [i]);//recorre el array creado antes cogiendo los datos del array de "Lista de Notas" que estan suspensos
         }
         System.out.println("El numero de suspensos es de: " + numeroSuspensos);//plasma por consola el numero de suspensos
         System.out.println("---------------------------------------");        
