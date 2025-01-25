@@ -17,12 +17,9 @@ public class OrdenacionArrays {
                 }
             }
         }
-
         for (i=0; i < ListaNumeros.length;i++){
             System.out.println(ListaNumeros[i]);
-        }
-        
+        }   
     }
-
 }
     
