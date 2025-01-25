@@ -1,6 +1,6 @@
 package com.mycompany.app.EJERCICIOSREPASONAVIDAD;
 
-public class RecorrerArrays {
+public class OrdenacionArrays {
     public static void main(String[] args) {
         int i;
         int ListaNumeros[] = new int[] { 2, 3, 7, 5, 6, 1 };
