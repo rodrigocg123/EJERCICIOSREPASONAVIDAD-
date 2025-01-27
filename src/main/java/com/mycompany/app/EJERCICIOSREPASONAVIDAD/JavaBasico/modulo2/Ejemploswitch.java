@@ -1,4 +1,4 @@
-package com.mycompany.app.EJERCICIOSREPASONAVIDAD;
+package com.mycompany.app.EJERCICIOSREPASONAVIDAD.JavaBasico.modulo2;
 
 import java.util.*;
 

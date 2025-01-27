@@ -1,4 +1,4 @@
-package com.mycompany.app.EJERCICIOSREPASONAVIDAD;
+package com.mycompany.app.EJERCICIOSREPASONAVIDAD.JavaBasico.modulo3;
 import java.util.*;
 public class ResumenDeTodo {
     public static void main(String[] args) {

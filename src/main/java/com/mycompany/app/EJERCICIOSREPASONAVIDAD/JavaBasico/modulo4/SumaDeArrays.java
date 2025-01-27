@@ -1,4 +1,4 @@
-package com.mycompany.app.EJERCICIOSREPASONAVIDAD;
+package com.mycompany.app.EJERCICIOSREPASONAVIDAD.JavaBasico.modulo4;
 
 public class SumaDeArrays {
     public static void main(String[] args) {

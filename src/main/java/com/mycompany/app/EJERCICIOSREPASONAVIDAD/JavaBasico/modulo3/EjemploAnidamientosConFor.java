@@ -1,4 +1,4 @@
-package com.mycompany.app.EJERCICIOSREPASONAVIDAD;
+package com.mycompany.app.EJERCICIOSREPASONAVIDAD.JavaBasico.modulo3;
 
 public class EjemploAnidamientosConFor {
     public static void main(String[] args) {
